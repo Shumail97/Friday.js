@@ -1,0 +1,2 @@
+# Friday.js
+Fibonacci Sequence
